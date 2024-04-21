@@ -9,50 +9,11 @@
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg/330px-Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg",
     }
   ],
-  "pengguna": [
-    {
-      "id": "1",
-      "username": "Budi",
-      "userId": "3",
-      "review": "Ga Enak",
-      "restoId": "1"
-    }
-     {
-      "id": "5",
-      "username": "Christopher Kelvin",
-      "userId": "1",
-      "review": "The best chinese food",
-      "restoId": "3"
-    },
-     {
-      "id": "6",
-      "username": "Bambang",
-      "userId": "2",
-      "review": "Chinese food terdekat dari ubaya",
-      "restoId": "3"
-    },
-     {
-      "id": "7",
-      "username": "Sutejo",
-      "userId": "4",
-      "review": "Ayam bakar nya enak banget",
-      "restoId": "2"
-    },
-    {
-      "id": "8",
-      "username": "Budi",
-      "userId": "3",
-      "review": "Enak dan udah fix makanan sehat ",
-      "restoId": "4"
-    }
-  ],
   "profile": {
       "id": "1",
-      "username": "ckpk",
+      "username": "yongky",
       "password": "123",
-      "name": "Christopher Kelvin",
-      "studentId": "160420021",
-      "phone": "081232323685",
-      "profilePic": "https://i.pravatar.cc/"
+      "nameDepan": "Yongky",
+      "namaBelakang":"Christiono",
     }
 }
