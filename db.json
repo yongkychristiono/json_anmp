@@ -1,18 +1,23 @@
 {
   "berita":
+  [
     {
       "id": "1",
       "judul": "Christiano Ronaldo",
       "namaPembuat":"Budi",
       "description": "Cristiano Ronaldo dos Santos Aveiro (pengucapan bahasa Portugis: [kɾiʃˈtjɐnu ʁɔˈnaɫdu]; lahir 5 Februari 1985 adalah seorang pemain sepak bola profesional asal Portugal yang bermain di klub Arab Saudi Al-Nassr FC sebagai penyerang dan juga kapten tim nasional Portugal.",
       "detail":"Sering dianggap sebagai pemain terbaik di dunia dan secara luas dianggap sebagai salah satu pemain terhebat sepanjang masa, Ronaldo memenangkan lima penghargaan Ballon d'Or dan empat Sepatu Emas Eropa. Ia sejauh ini memenangkan 35 trofi sepanjang kariernya, termasuk tujuh gelar liga, lima Liga Champions UEFA, satu Kejuaraan Eropa UEFA dan satu Liga Negara UEFA.",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg/330px-Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg",
-    },
-  "profile": {
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_(cropped).jpg/330px-Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_(cropped).jpg",
+    }
+  ],
+  "profile": 
+[
+    {
       "id": "1",
       "username": "yongky",
       "password": "123",
       "namaDepan": "Yongky",
       "namaBelakang":"Christiono",
     }
+  ]
 }
